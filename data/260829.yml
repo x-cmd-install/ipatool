@@ -1,0 +1,57 @@
+about:
+  description: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+  license: MIT
+  homepage: 
+  head: a53550f
+  archived: false
+  latestVersion: v2.4.0
+  collectedAt: 2026-08-29T07:19:38Z
+timeline:
+  created: 2021-05-22
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 9972
+  watcher: 71
+  fork: 867
+  release: 36
+  contributor: 33
+  pullRequest: 45
+  issue: 345
+language:
+  Go: 356755
+  Shell: 141
+totalLine: 356896
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 9
+    openIssue: 3
+    commit: 5
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 23
+    openIssue: 4
+    commit: 8
+  last180d:
+    since: 2026-03-02
+    release: 3
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 35
+    openIssue: 8
+    commit: 17
+  last360d:
+    since: 2025-09-03
+    release: 5
+    mergedPR: 20
+    openPR: 0
+    closedIssue: 70
+    openIssue: 11
+    commit: 26
