@@ -1,0 +1,57 @@
+about:
+  description: Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+  license: MIT
+  homepage: 
+  head: 8f9748f
+  archived: false
+  latestVersion: v2.5.0
+  collectedAt: 2026-09-03T04:57:38Z
+timeline:
+  created: 2021-05-22
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-31
+popularity:
+  star: 10768
+  watcher: 76
+  fork: 904
+  release: 37
+  contributor: 33
+  pullRequest: 45
+  issue: 352
+language:
+  Go: 480418
+  Shell: 141
+totalLine: 480559
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 10
+    openIssue: 9
+    commit: 10
+  last90d:
+    since: 2026-06-05
+    release: 4
+    mergedPR: 13
+    openPR: 0
+    closedIssue: 23
+    openIssue: 10
+    commit: 14
+  last180d:
+    since: 2026-03-07
+    release: 4
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 35
+    openIssue: 14
+    commit: 23
+  last360d:
+    since: 2025-09-08
+    release: 6
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 71
+    openIssue: 17
+    commit: 31
