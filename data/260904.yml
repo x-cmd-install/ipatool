@@ -7,13 +7,13 @@ about:
   head: a9bd16c
   archived: false
   latestVersion: v2.5.0
-  collectedAt: 2026-09-04T19:54:30Z
+  collectedAt: 2026-09-04T20:45:11Z
 timeline:
   created: 2021-05-22
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 10851
+  star: 10856
   watcher: 77
   fork: 909
   release: 37
@@ -81,6 +81,29 @@ total:
   openIssue: 29
   commit: 219
 ---
+path: /home/runner/.x-repo/github.com/majd/ipatool
+collectedAt: 2026-09-04T20:45:13Z
+loc:
+  Go:
+    code: 15773
+    comments: 116
+    blanks: 3453
+    files: 152
+  Sh:
+    code: 5
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 146
+    blanks: 58
+    files: 1
+total:
+  code: 15782
+  comments: 263
+  blanks: 3512
+  files: 154
 ---
 date: "2026-08-24"
 repo:
