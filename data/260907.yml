@@ -5,15 +5,15 @@ about:
   head: a9bd16c
   archived: false
   latestVersion: "v2.5.0"
-  collectedAt: 2026-09-07T05:54:50Z
+  collectedAt: 2026-09-07T18:46:11Z
 timeline:
   created: 2021-05-22
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 10983
+  star: 11008
   watcher: 79
-  fork: 915
+  fork: 916
   release: 37
   contributor: 33
   pullRequest: 174
@@ -80,7 +80,7 @@ total:
   commit: 219
 ---
 path: /home/runner/.x-repo/github.com/majd/ipatool
-collectedAt: 2026-09-07T05:54:51Z
+collectedAt: 2026-09-07T18:46:11Z
 loc:
   Go:
     code: 15773
@@ -241,7 +241,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:54:52+00:00
+  collectedAt: 2026-09-07T18:46:12+00:00
   platform:
     darwin/arm64:
       name:  ipatool-2.5.0-macos-arm64.tar.gz
