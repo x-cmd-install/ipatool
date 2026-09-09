@@ -7,7 +7,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 - **Latest release**: `v2.5.0` (2026-08-31)
 - **Last commit**: 2026-09-03
 - **License**: MIT
-- **Stars**: 11025 · **Forks**: 920 · **Open issues**: 360 · **Contributors**: 33
+- **Stars**: 11028 · **Forks**: 922 · **Open issues**: 360 · **Contributors**: 33
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/ipatool> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:16:36Z._
+_Last regenerated: 2026-09-09T20:08:43Z._
