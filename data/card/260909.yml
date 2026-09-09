@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.0"
   latestRelease: "v2.5.0"
   latestPrerelease: "v2.3.0-rc.1"
-  collectedAt: 2026-09-09T06:16:28Z
+  collectedAt: 2026-09-09T20:08:36Z
 timeline:
   created: 2021-05-22
   lastCommit: 2026-09-03
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 2026-02-16
 popularity:
-  star: 11025
+  star: 11028
   watcher: 78
-  fork: 920
+  fork: 922
   release: 37
   contributor: 33
   pullRequest: 174
@@ -84,7 +84,7 @@ total:
   commit: 219
 ---
 path: /home/runner/.x-repo/github.com/majd/ipatool
-collectedAt: 2026-09-09T06:16:28Z
+collectedAt: 2026-09-09T20:08:37Z
 loc:
   Go:
     code: 15773
