@@ -12,7 +12,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 x install ipatool
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **15,778** 行代码（覆盖前 5 种语言、共 **154** 个文件）。
 
@@ -45,7 +45,7 @@ x install ipatool
 
 ## 流行度
 
-- **Star**: 11,046 · **Fork**: 922 · **开放 issue**: 362 · **贡献者**: 33
+- **Star**: 11,047 · **Fork**: 922 · **开放 issue**: 362 · **贡献者**: 33
 
 ## 累计统计
 
@@ -97,4 +97,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:23:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:33:34Z._
