@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,047 · **Forks**: 922 · **Open issues**: 362 · **Contributors**: 33
+- **Stars**: 11,053 · **Forks**: 923 · **Open issues**: 362 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 8 | 0 | 10 | 17 | 12 |
-| last60d | 2026-07-12 | 3 | 9 | 0 | 14 | 17 | 13 |
-| 90d | 2026-06-12 | 4 | 14 | 0 | 19 | 18 | 16 |
-| last180d | 2026-03-14 | 4 | 22 | 0 | 36 | 21 | 25 |
-| 360d | 2025-09-15 | 6 | 26 | 0 | 72 | 25 | 33 |
-| last720d | 2024-09-20 | 9 | 42 | 0 | 150 | 27 | 62 |
+| 30d | 2026-08-12 | 2 | 8 | 0 | 10 | 17 | 12 |
+| last60d | 2026-07-13 | 3 | 9 | 0 | 14 | 17 | 13 |
+| 90d | 2026-06-13 | 4 | 14 | 0 | 17 | 18 | 16 |
+| last180d | 2026-03-15 | 4 | 22 | 0 | 36 | 21 | 25 |
+| 360d | 2025-09-16 | 6 | 26 | 0 | 71 | 24 | 33 |
+| last720d | 2024-09-21 | 9 | 42 | 0 | 150 | 27 | 62 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/ipatool). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/ipatool). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:33:34Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:05:46Z._
