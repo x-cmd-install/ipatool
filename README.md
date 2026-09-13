@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,086 · **Forks**: 928 · **Open issues**: 363 · **Contributors**: 33
+- **Stars**: 11,097 · **Forks**: 931 · **Open issues**: 363 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 8 | 0 | 10 | 18 | 12 |
-| last60d | 2026-07-14 | 3 | 9 | 0 | 14 | 18 | 13 |
-| 90d | 2026-06-14 | 4 | 14 | 0 | 17 | 19 | 16 |
-| last180d | 2026-03-16 | 4 | 22 | 0 | 36 | 22 | 25 |
-| 360d | 2025-09-17 | 6 | 26 | 0 | 71 | 25 | 33 |
-| last720d | 2024-09-22 | 9 | 42 | 0 | 150 | 28 | 62 |
+| 30d | 2026-08-14 | 2 | 8 | 0 | 9 | 18 | 12 |
+| last60d | 2026-07-15 | 3 | 9 | 0 | 14 | 18 | 13 |
+| 90d | 2026-06-15 | 4 | 14 | 0 | 15 | 19 | 16 |
+| last180d | 2026-03-17 | 4 | 22 | 0 | 36 | 22 | 25 |
+| 360d | 2025-09-18 | 6 | 26 | 0 | 71 | 25 | 33 |
+| last720d | 2024-09-23 | 9 | 42 | 0 | 150 | 28 | 62 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:51:28Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:10:11Z._
