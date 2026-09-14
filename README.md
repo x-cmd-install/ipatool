@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 
 ![ipatool](https://repo.x-cmd.io/ipatool.svg)
 
@@ -14,13 +14,13 @@ x install ipatool
 
 ## Code insight
 
-Total: **15,778** lines of code across **154** files in the top 5 languages.
+Total: **19,947** lines of code across **185** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,773 | 116 | 3,453 | 152 |
-| Sh | 5 | 1 | 1 | 1 |
-| Markdown | 0 | 146 | 58 | 1 |
+| Go | 19,911 | 213 | 4,114 | 182 |
+| Sh | 36 | 6 | 7 | 2 |
+| Markdown | 0 | 58 | 25 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -39,54 +39,47 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.5.0` (2026-08-31)
-- **Last commit**: 2026-09-03
-- **Assets in release**: 12
+- **Latest**: `v2.6.0` (2026-09-13)
+- **Last commit**: 2026-09-13
+- **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 11,097 · **Forks**: 931 · **Open issues**: 363 · **Contributors**: 33
+- **Stars**: 11,140 · **Forks**: 933 · **Open issues**: 366 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 328 · **Open issues**: 35 · **Commits**: 219
+- **Releases**: 38 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 12 · **Commits**: 245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 8 | 0 | 9 | 18 | 12 |
-| last60d | 2026-07-15 | 3 | 9 | 0 | 14 | 18 | 13 |
-| 90d | 2026-06-15 | 4 | 14 | 0 | 15 | 19 | 16 |
-| last180d | 2026-03-17 | 4 | 22 | 0 | 36 | 22 | 25 |
-| 360d | 2025-09-18 | 6 | 26 | 0 | 71 | 25 | 33 |
-| last720d | 2024-09-23 | 9 | 42 | 0 | 150 | 28 | 62 |
+| 30d | 2026-08-15 | 3 | 30 | 0 | 26 | 4 | 38 |
+| last60d | 2026-07-16 | 4 | 31 | 0 | 30 | 4 | 39 |
+| 90d | 2026-06-16 | 5 | 36 | 0 | 33 | 4 | 42 |
+| last180d | 2026-03-18 | 5 | 44 | 0 | 56 | 5 | 51 |
+| 360d | 2025-09-19 | 7 | 48 | 0 | 93 | 6 | 59 |
+| last720d | 2024-09-24 | 10 | 64 | 0 | 172 | 8 | 88 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ipatool-2.5.0-linux-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-linux-amd64.tar.gz) | 16.0 MiB | `native/linux/x64` |
-| [ipatool-2.5.0-linux-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-linux-amd64.tar.gz.sha256sum) | 65 B | `native/linux/x64` |
-| [ipatool-2.5.0-linux-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-linux-arm64.tar.gz) | 14.8 MiB | `native/linux/arm64` |
-| [ipatool-2.5.0-linux-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-linux-arm64.tar.gz.sha256sum) | 65 B | `native/linux/arm64` |
-| [ipatool-2.5.0-macos-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-macos-amd64.tar.gz) | 17.3 MiB | `native/darwin/x64` |
-| [ipatool-2.5.0-macos-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-macos-amd64.tar.gz.sha256sum) | 65 B | `native/darwin/x64` |
-| [ipatool-2.5.0-macos-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-macos-arm64.tar.gz) | 16.3 MiB | `native/darwin/arm64` |
-| [ipatool-2.5.0-macos-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-macos-arm64.tar.gz.sha256sum) | 65 B | `native/darwin/arm64` |
-| [ipatool-2.5.0-windows-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-windows-amd64.tar.gz) | 17.2 MiB | `native/win/x64` |
-| [ipatool-2.5.0-windows-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-windows-amd64.tar.gz.sha256sum) | 65 B | `native/win/x64` |
-| [ipatool-2.5.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-windows-arm64.tar.gz) | 16.0 MiB | `native/win/arm64` |
-| [ipatool-2.5.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.5.0/ipatool-2.5.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
-
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/ipatool). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.5.0` | ✅ latest |
-| Nix unstable | `2.5.0` | ✅ latest |
+| [ipatool-2.6.0-ios-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-ios-arm64.tar.gz) | 10.3 MiB | `native/linux/arm64` |
+| [ipatool-2.6.0-ios-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-ios-arm64.tar.gz.sha256sum) | 65 B | `other` |
+| [ipatool-2.6.0-linux-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-linux-amd64.tar.gz) | 16.2 MiB | `native/linux/x64` |
+| [ipatool-2.6.0-linux-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-linux-amd64.tar.gz.sha256sum) | 65 B | `native/linux/x64` |
+| [ipatool-2.6.0-linux-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-linux-arm64.tar.gz) | 15.0 MiB | `native/linux/arm64` |
+| [ipatool-2.6.0-linux-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-linux-arm64.tar.gz.sha256sum) | 65 B | `native/linux/arm64` |
+| [ipatool-2.6.0-macos-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-macos-amd64.tar.gz) | 17.4 MiB | `native/darwin/x64` |
+| [ipatool-2.6.0-macos-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-macos-amd64.tar.gz.sha256sum) | 65 B | `native/darwin/x64` |
+| [ipatool-2.6.0-macos-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-macos-arm64.tar.gz) | 16.4 MiB | `native/darwin/arm64` |
+| [ipatool-2.6.0-macos-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-macos-arm64.tar.gz.sha256sum) | 65 B | `native/darwin/arm64` |
+| [ipatool-2.6.0-windows-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-windows-amd64.tar.gz) | 17.3 MiB | `native/win/x64` |
+| [ipatool-2.6.0-windows-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-windows-amd64.tar.gz.sha256sum) | 65 B | `native/win/x64` |
+| [ipatool-2.6.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-windows-arm64.tar.gz) | 16.1 MiB | `native/win/arm64` |
+| [ipatool-2.6.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.6.0/ipatool-2.6.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
 
 ## Improve this data
 
@@ -97,4 +90,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:10:11Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:36:39Z._
