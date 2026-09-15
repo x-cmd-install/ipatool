@@ -24,11 +24,11 @@ Total: **19,947** lines of code across **185** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,140 · **Forks**: 933 · **Open issues**: 366 · **Contributors**: 36
+- **Stars**: 11,233 · **Forks**: 938 · **Open issues**: 367 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 12 · **Commits**: 245
+- **Releases**: 38 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 13 · **Commits**: 245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 30 | 0 | 26 | 4 | 38 |
-| last60d | 2026-07-16 | 4 | 31 | 0 | 30 | 4 | 39 |
-| 90d | 2026-06-16 | 5 | 36 | 0 | 33 | 4 | 42 |
-| last180d | 2026-03-18 | 5 | 44 | 0 | 56 | 5 | 51 |
-| 360d | 2025-09-19 | 7 | 48 | 0 | 93 | 6 | 59 |
-| last720d | 2024-09-24 | 10 | 64 | 0 | 172 | 8 | 88 |
+| 30d | 2026-08-16 | 3 | 30 | 0 | 26 | 6 | 38 |
+| last60d | 2026-07-17 | 4 | 31 | 0 | 30 | 6 | 39 |
+| 90d | 2026-06-17 | 5 | 35 | 0 | 33 | 6 | 42 |
+| last180d | 2026-03-19 | 5 | 44 | 0 | 55 | 6 | 51 |
+| 360d | 2025-09-20 | 7 | 48 | 0 | 92 | 7 | 59 |
+| last720d | 2024-09-25 | 10 | 64 | 0 | 172 | 9 | 88 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:36:39Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:45:50Z._
