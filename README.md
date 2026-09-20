@@ -4,7 +4,7 @@
 
 Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 
-![ipatool](https://repo.x-cmd.io/ipatool.svg)
+[![x-cmd/install — ipatool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ipatool.svg)](https://x-cmd.com/install/ipatool)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install ipatool
 
 ## Code insight
 
-Total: **19,947** lines of code across **185** files in the top 5 languages.
+Total: **20,118** lines of code across **186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,911 | 213 | 4,114 | 182 |
+| Go | 20,082 | 217 | 4,144 | 183 |
 | Sh | 36 | 6 | 7 | 2 |
 | Markdown | 0 | 58 | 25 | 1 |
 
@@ -40,27 +40,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.6.0` (2026-09-13)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-19
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 11,297 · **Forks**: 941 · **Open issues**: 371 · **Contributors**: 36
+- **Stars**: 11,322 · **Forks**: 942 · **Open issues**: 374 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 359 · **Open issues**: 12 · **Commits**: 245
+- **Releases**: 38 · **Merged PRs**: 153 · **Open PRs**: 0 · **Closed issues**: 361 · **Open issues**: 13 · **Commits**: 247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 30 | 0 | 29 | 5 | 38 |
-| last60d | 2026-07-20 | 4 | 31 | 0 | 35 | 5 | 39 |
-| 90d | 2026-06-20 | 5 | 35 | 0 | 38 | 5 | 42 |
-| last180d | 2026-03-22 | 5 | 44 | 0 | 60 | 5 | 51 |
-| 360d | 2025-09-23 | 7 | 48 | 0 | 96 | 6 | 59 |
-| last720d | 2024-09-28 | 10 | 64 | 0 | 175 | 8 | 88 |
+| 30d | 2026-08-21 | 3 | 32 | 0 | 28 | 6 | 40 |
+| last60d | 2026-07-22 | 4 | 33 | 0 | 37 | 6 | 41 |
+| 90d | 2026-06-22 | 5 | 37 | 0 | 39 | 6 | 44 |
+| last180d | 2026-03-24 | 5 | 46 | 0 | 62 | 6 | 53 |
+| 360d | 2025-09-25 | 7 | 50 | 0 | 98 | 7 | 61 |
+| last720d | 2024-09-30 | 10 | 66 | 0 | 177 | 9 | 90 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:17:49Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:29Z._
