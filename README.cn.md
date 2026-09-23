@@ -4,7 +4,7 @@
 
 Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 
-[![x-cmd/install — ipatool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ipatool.svg?lang=zh)](https://x-cmd.com/install/ipatool)
+[![x-cmd/install — ipatool Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ipatool.svg?lang=zh)](https://x-cmd.com/install/ipatool)
 
 ## 安装
 
@@ -28,8 +28,8 @@ x install ipatool
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -45,22 +45,22 @@ x install ipatool
 
 ## 流行度
 
-- **Star**: 11,344 · **Fork**: 945 · **开放 issue**: 374 · **贡献者**: 36
+- **Star**: 11,363 · **Fork**: 945 · **开放 issue**: 362 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 153 · **开放 PR**: 0 · **已关闭 issue**: 361 · **开放 issue**: 13 · **提交数**: 247
+- **发布数**: 38 · **已合并 PR**: 153 · **开放 PR**: 0 · **已关闭 issue**: 350 · **开放 issue**: 12 · **提交数**: 247
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 32 | 0 | 28 | 6 | 40 |
-| last60d | 2026-07-24 | 4 | 33 | 0 | 36 | 6 | 41 |
-| 90d | 2026-06-24 | 5 | 37 | 0 | 39 | 6 | 44 |
-| last180d | 2026-03-26 | 5 | 46 | 0 | 61 | 6 | 53 |
-| 360d | 2025-09-27 | 7 | 50 | 0 | 97 | 7 | 61 |
-| last720d | 2024-10-02 | 10 | 66 | 0 | 177 | 9 | 90 |
+| 30d | 2026-08-24 | 3 | 32 | 0 | 22 | 5 | 40 |
+| last60d | 2026-07-25 | 4 | 32 | 0 | 29 | 5 | 41 |
+| 90d | 2026-06-25 | 5 | 37 | 0 | 32 | 5 | 44 |
+| last180d | 2026-03-27 | 5 | 46 | 0 | 52 | 5 | 53 |
+| 360d | 2025-09-28 | 7 | 50 | 0 | 87 | 6 | 61 |
+| last720d | 2024-10-03 | 10 | 66 | 0 | 166 | 8 | 90 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:22:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:39:21Z._
