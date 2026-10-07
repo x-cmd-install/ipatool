@@ -14,11 +14,11 @@ x install ipatool
 
 ## Code insight
 
-Total: **23,961** lines of code across **212** files in the top 5 languages.
+Total: **24,221** lines of code across **214** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,925 | 317 | 4,744 | 209 |
+| Go | 24,185 | 324 | 4,779 | 211 |
 | Sh | 36 | 6 | 7 | 2 |
 | Markdown | 0 | 58 | 25 | 1 |
 
@@ -28,7 +28,7 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -40,27 +40,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.6.0` (2026-09-13)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 11,493 · **Forks**: 963 · **Open issues**: 385 · **Contributors**: 36
+- **Stars**: 11,502 · **Forks**: 965 · **Open issues**: 385 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 164 · **Open PRs**: 0 · **Closed issues**: 371 · **Open issues**: 14 · **Commits**: 259
+- **Releases**: 38 · **Merged PRs**: 166 · **Open PRs**: 0 · **Closed issues**: 372 · **Open issues**: 13 · **Commits**: 261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 35 | 0 | 23 | 6 | 37 |
-| last60d | 2026-08-07 | 3 | 43 | 0 | 46 | 7 | 52 |
-| 90d | 2026-07-08 | 4 | 45 | 0 | 49 | 7 | 53 |
-| last180d | 2026-04-09 | 5 | 57 | 0 | 68 | 7 | 64 |
-| 360d | 2025-10-11 | 7 | 61 | 0 | 102 | 8 | 73 |
-| last720d | 2024-10-16 | 10 | 77 | 0 | 185 | 10 | 102 |
+| 30d | 2026-09-07 | 1 | 37 | 0 | 23 | 5 | 39 |
+| last60d | 2026-08-08 | 3 | 45 | 0 | 47 | 6 | 54 |
+| 90d | 2026-07-09 | 4 | 47 | 0 | 50 | 6 | 55 |
+| last180d | 2026-04-10 | 5 | 59 | 0 | 69 | 6 | 66 |
+| 360d | 2025-10-12 | 7 | 63 | 0 | 103 | 7 | 75 |
+| last720d | 2024-10-17 | 10 | 79 | 0 | 186 | 9 | 104 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:45:16Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:05:43Z._
