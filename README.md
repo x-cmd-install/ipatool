@@ -14,11 +14,11 @@ x install ipatool
 
 ## Code insight
 
-Total: **27,310** lines of code across **224** files in the top 5 languages.
+Total: **27,671** lines of code across **225** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 27,274 | 366 | 5,308 | 221 |
+| Go | 27,635 | 374 | 5,345 | 222 |
 | Sh | 36 | 6 | 7 | 2 |
 | Markdown | 0 | 63 | 28 | 1 |
 
@@ -40,27 +40,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.0` (2026-10-09)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-15
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 11,693 · **Forks**: 989 · **Open issues**: 392 · **Contributors**: 36
+- **Stars**: 11,714 · **Forks**: 992 · **Open issues**: 393 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 170 · **Open PRs**: 0 · **Closed issues**: 380 · **Open issues**: 12 · **Commits**: 268
+- **Releases**: 39 · **Merged PRs**: 172 · **Open PRs**: 0 · **Closed issues**: 383 · **Open issues**: 10 · **Commits**: 270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 19 | 0 | 16 | 5 | 23 |
-| last60d | 2026-08-16 | 4 | 49 | 0 | 51 | 6 | 60 |
-| 90d | 2026-07-17 | 5 | 50 | 0 | 55 | 6 | 61 |
-| last180d | 2026-04-18 | 6 | 60 | 0 | 74 | 6 | 69 |
-| 360d | 2025-10-20 | 8 | 67 | 0 | 110 | 6 | 81 |
-| last720d | 2024-10-25 | 11 | 83 | 0 | 188 | 8 | 111 |
+| 30d | 2026-09-16 | 1 | 21 | 0 | 19 | 3 | 25 |
+| last60d | 2026-08-17 | 4 | 51 | 0 | 54 | 4 | 63 |
+| 90d | 2026-07-18 | 5 | 52 | 0 | 58 | 4 | 64 |
+| last180d | 2026-04-19 | 6 | 62 | 0 | 77 | 4 | 72 |
+| 360d | 2025-10-21 | 8 | 69 | 0 | 112 | 4 | 84 |
+| last720d | 2024-10-26 | 11 | 85 | 0 | 191 | 6 | 113 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:54:42Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:38:20Z._
