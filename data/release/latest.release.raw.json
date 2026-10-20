@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11458330,
       "digest": "sha256:e4b5fff3004f9c61b3182152d258081a2ad1e3c013381d9db754ba1bd9e7eaf1",
-      "download_count": 491,
+      "download_count": 595,
       "created_at": "2026-10-09T21:44:05Z",
       "updated_at": "2026-10-09T21:44:06Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-ios-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:0dcb6c176fb041b95e28493d03bab6f5a4468428851defb60d4ac965671a2186",
-      "download_count": 45,
+      "download_count": 55,
       "created_at": "2026-10-09T21:44:04Z",
       "updated_at": "2026-10-09T21:44:05Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-ios-arm64.tar.gz.sha256sum"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18199658,
       "digest": "sha256:68372de9743d468296f2dba5b413a3e7df56ad0c85b8d0f4f0f6c9b8b53a54e8",
-      "download_count": 1011,
+      "download_count": 1279,
       "created_at": "2026-10-09T21:44:05Z",
       "updated_at": "2026-10-09T21:44:06Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:8b54213b71cb1ce0b9b994b8136e8ecec3c97d41350f0142f7e905fa406f265c",
-      "download_count": 244,
+      "download_count": 315,
       "created_at": "2026-10-09T21:44:05Z",
       "updated_at": "2026-10-09T21:44:05Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-amd64.tar.gz.sha256sum"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 16872470,
       "digest": "sha256:133c3fb754bafcd61698ba6047b48096c7033345529f57d7a83d281f8a403c23",
-      "download_count": 146,
+      "download_count": 186,
       "created_at": "2026-10-09T21:44:28Z",
       "updated_at": "2026-10-09T21:44:29Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:2b7063c9b44b3f9f705ab9fec9b4ed022c1a63dccb105b7bc7583a10a3a72c6e",
-      "download_count": 40,
+      "download_count": 48,
       "created_at": "2026-10-09T21:44:27Z",
       "updated_at": "2026-10-09T21:44:27Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-arm64.tar.gz.sha256sum"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19651738,
       "digest": "sha256:05f48994d8b3cfefe7ea1172a0ac0b28715888e9df0af38cf3e490d2ed592263",
-      "download_count": 479,
+      "download_count": 571,
       "created_at": "2026-10-09T21:44:46Z",
       "updated_at": "2026-10-09T21:44:47Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:9a7b3db0eea82f8c568ad1883e2de7b67b5211d99a62adef3ed1c004f151c357",
-      "download_count": 89,
+      "download_count": 110,
       "created_at": "2026-10-09T21:44:45Z",
       "updated_at": "2026-10-09T21:44:46Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-amd64.tar.gz.sha256sum"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18443165,
       "digest": "sha256:5ae100d4520cf4b3f4374239e5925a9ad9a8dc02abc16bae27479e7ae99aca33",
-      "download_count": 1601,
+      "download_count": 1942,
       "created_at": "2026-10-09T21:44:44Z",
       "updated_at": "2026-10-09T21:44:45Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:c88f4756a09349ec59d850b6df20329ec99149cb2e0383489cbd0e7dc907d561",
-      "download_count": 477,
+      "download_count": 578,
       "created_at": "2026-10-09T21:44:43Z",
       "updated_at": "2026-10-09T21:44:43Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-arm64.tar.gz.sha256sum"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19471690,
       "digest": "sha256:b729608716908be287c2e6972f9e8cd05f879810ae5d182fc856c9e57cca0dd5",
-      "download_count": 2462,
+      "download_count": 3185,
       "created_at": "2026-10-09T21:43:49Z",
       "updated_at": "2026-10-09T21:43:50Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:02dea4dad0895d923ecf2d4073bc03df47e11c6582d94fd92085abd1c1aecc73",
-      "download_count": 460,
+      "download_count": 579,
       "created_at": "2026-10-09T21:43:49Z",
       "updated_at": "2026-10-09T21:43:49Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz.sha256sum"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18060386,
       "digest": "sha256:85ab35a268b47e1729412178063fe11621cae1135f33d3b9ab5233d436bf2562",
-      "download_count": 307,
+      "download_count": 390,
       "created_at": "2026-10-09T21:43:53Z",
       "updated_at": "2026-10-09T21:43:54Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:14889a0bbdee0e905e77b71dcb3a3be65e5279251f803a95075abb4b6ada2578",
-      "download_count": 84,
+      "download_count": 94,
       "created_at": "2026-10-09T21:43:52Z",
       "updated_at": "2026-10-09T21:43:52Z",
       "browser_download_url": "https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz.sha256sum"
