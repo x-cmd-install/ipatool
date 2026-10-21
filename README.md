@@ -35,6 +35,7 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/majd/ipatool>
+- **Homepage**: <https://ipatool.dev>
 - **License**: MIT
 
 ## Release
@@ -45,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,779 · **Forks**: 1,095 · **Open issues**: 393 · **Contributors**: 36
+- **Stars**: 11,798 · **Forks**: 1,007 · **Open issues**: 394 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 173 · **Open PRs**: 0 · **Closed issues**: 385 · **Open issues**: 8 · **Commits**: 271
+- **Releases**: 39 · **Merged PRs**: 173 · **Open PRs**: 1 · **Closed issues**: 385 · **Open issues**: 9 · **Commits**: 271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 20 | 0 | 18 | 1 | 24 |
-| last60d | 2026-08-21 | 4 | 52 | 0 | 51 | 2 | 64 |
-| 90d | 2026-07-22 | 5 | 53 | 0 | 60 | 2 | 65 |
-| last180d | 2026-04-23 | 6 | 63 | 0 | 78 | 2 | 73 |
-| 360d | 2025-10-25 | 8 | 70 | 0 | 112 | 2 | 85 |
-| last720d | 2024-10-30 | 11 | 86 | 0 | 192 | 4 | 114 |
+| 30d | 2026-09-21 | 1 | 20 | 1 | 18 | 2 | 24 |
+| last60d | 2026-08-22 | 4 | 52 | 1 | 51 | 3 | 64 |
+| 90d | 2026-07-23 | 5 | 53 | 1 | 60 | 3 | 65 |
+| last180d | 2026-04-24 | 6 | 63 | 1 | 77 | 3 | 73 |
+| 360d | 2025-10-26 | 8 | 70 | 1 | 111 | 3 | 85 |
+| last720d | 2024-10-31 | 11 | 86 | 1 | 191 | 5 | 114 |
 
 ## Release assets
 
@@ -90,4 +91,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:59:22Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:56:24Z._
