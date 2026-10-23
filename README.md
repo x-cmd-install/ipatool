@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,817 · **Forks**: 1,000 · **Open issues**: 396 · **Contributors**: 36
+- **Stars**: 11,841 · **Forks**: 1,001 · **Open issues**: 398 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 173 · **Open PRs**: 1 · **Closed issues**: 385 · **Open issues**: 11 · **Commits**: 271
+- **Releases**: 39 · **Merged PRs**: 173 · **Open PRs**: 1 · **Closed issues**: 385 · **Open issues**: 13 · **Commits**: 271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 20 | 1 | 17 | 4 | 24 |
-| last60d | 2026-08-23 | 4 | 52 | 1 | 51 | 5 | 64 |
-| 90d | 2026-07-24 | 5 | 53 | 1 | 59 | 5 | 65 |
-| last180d | 2026-04-25 | 6 | 63 | 1 | 77 | 5 | 73 |
-| 360d | 2025-10-27 | 8 | 70 | 1 | 111 | 5 | 85 |
-| last720d | 2024-11-01 | 11 | 86 | 1 | 190 | 7 | 114 |
+| 30d | 2026-09-23 | 1 | 20 | 1 | 15 | 6 | 24 |
+| last60d | 2026-08-24 | 4 | 52 | 1 | 51 | 7 | 64 |
+| 90d | 2026-07-25 | 5 | 52 | 1 | 59 | 7 | 65 |
+| last180d | 2026-04-26 | 6 | 63 | 1 | 77 | 7 | 73 |
+| 360d | 2025-10-28 | 8 | 70 | 1 | 111 | 7 | 85 |
+| last720d | 2024-11-02 | 11 | 86 | 1 | 190 | 9 | 114 |
 
 ## Release assets
 
@@ -82,6 +82,15 @@ Lowest-scoring checks:
 | [ipatool-2.7.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz) | 17.2 MiB | `native/win/arm64` |
 | [ipatool-2.7.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/ipatool). **6** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.7.0` | ✅ latest |
+| Nix unstable | `2.7.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ipatool` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +100,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:50:37Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:54:13Z._

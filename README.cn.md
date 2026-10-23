@@ -46,22 +46,22 @@ x install ipatool
 
 ## 流行度
 
-- **Star**: 11,817 · **Fork**: 1,000 · **开放 issue**: 396 · **贡献者**: 36
+- **Star**: 11,841 · **Fork**: 1,001 · **开放 issue**: 398 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 173 · **开放 PR**: 1 · **已关闭 issue**: 385 · **开放 issue**: 11 · **提交数**: 271
+- **发布数**: 39 · **已合并 PR**: 173 · **开放 PR**: 1 · **已关闭 issue**: 385 · **开放 issue**: 13 · **提交数**: 271
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 20 | 1 | 17 | 4 | 24 |
-| last60d | 2026-08-23 | 4 | 52 | 1 | 51 | 5 | 64 |
-| 90d | 2026-07-24 | 5 | 53 | 1 | 59 | 5 | 65 |
-| last180d | 2026-04-25 | 6 | 63 | 1 | 77 | 5 | 73 |
-| 360d | 2025-10-27 | 8 | 70 | 1 | 111 | 5 | 85 |
-| last720d | 2024-11-01 | 11 | 86 | 1 | 190 | 7 | 114 |
+| 30d | 2026-09-23 | 1 | 20 | 1 | 15 | 6 | 24 |
+| last60d | 2026-08-24 | 4 | 52 | 1 | 51 | 7 | 64 |
+| 90d | 2026-07-25 | 5 | 52 | 1 | 59 | 7 | 65 |
+| last180d | 2026-04-26 | 6 | 63 | 1 | 77 | 7 | 73 |
+| 360d | 2025-10-28 | 8 | 70 | 1 | 111 | 7 | 85 |
+| last720d | 2024-11-02 | 11 | 86 | 1 | 190 | 9 | 114 |
 
 ## Release 资产
 
@@ -82,6 +82,15 @@ x install ipatool
 | [ipatool-2.7.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz) | 17.2 MiB | `native/win/arm64` |
 | [ipatool-2.7.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/ipatool) 上共有 **13** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.7.0` | ✅ latest |
+| Nix unstable | `2.7.0` | ✅ latest |
+
 ## 改进这些数据
 
 ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ipatool` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -91,4 +100,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:50:37Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:54:14Z._
