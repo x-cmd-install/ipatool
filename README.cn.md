@@ -14,11 +14,11 @@ x install ipatool
 
 ## 代码洞察
 
-合计: **95,670** 行代码（覆盖前 5 种语言、共 **297** 个文件）。
+合计: **96,699** 行代码（覆盖前 5 种语言、共 **300** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 95,634 | 649 | 8,133 | 294 |
+| Go | 96,663 | 666 | 8,391 | 297 |
 | Sh | 36 | 6 | 7 | 2 |
 | Markdown | 0 | 63 | 28 | 1 |
 
@@ -40,56 +40,56 @@ x install ipatool
 
 ## 发布
 
-- **最新版本**: `v2.7.0` (2026-10-09)
-- **最近提交**: 2026-11-08
+- **最新版本**: `v2.8.0` (2026-11-08)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 12,207 · **Fork**: 1,080 · **开放 issue**: 406 · **贡献者**: 36
+- **Star**: 12,271 · **Fork**: 1,089 · **开放 issue**: 413 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 175 · **开放 PR**: 0 · **已关闭 issue**: 392 · **开放 issue**: 14 · **提交数**: 273
+- **发布数**: 40 · **已合并 PR**: 181 · **开放 PR**: 0 · **已关闭 issue**: 405 · **开放 issue**: 8 · **提交数**: 279
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 6 | 0 | 14 | 6 | 3 |
-| last60d | 2026-09-09 | 2 | 46 | 0 | 39 | 7 | 28 |
-| 90d | 2026-08-10 | 4 | 54 | 0 | 64 | 8 | 66 |
-| last180d | 2026-05-12 | 6 | 61 | 0 | 84 | 8 | 72 |
-| 360d | 2025-11-13 | 8 | 72 | 0 | 117 | 8 | 87 |
-| last720d | 2024-11-18 | 11 | 88 | 0 | 194 | 10 | 116 |
+| 30d | 2026-10-11 | 1 | 11 | 0 | 20 | 3 | 9 |
+| last60d | 2026-09-11 | 3 | 52 | 0 | 48 | 3 | 34 |
+| 90d | 2026-08-12 | 5 | 60 | 0 | 76 | 3 | 72 |
+| last180d | 2026-05-14 | 7 | 67 | 0 | 95 | 3 | 78 |
+| 360d | 2025-11-15 | 9 | 77 | 0 | 129 | 3 | 93 |
+| last720d | 2024-11-20 | 12 | 94 | 0 | 206 | 4 | 122 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ipatool-2.7.0-ios-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-ios-arm64.tar.gz) | 10.9 MiB | `native/linux/arm64` |
-| [ipatool-2.7.0-ios-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-ios-arm64.tar.gz.sha256sum) | 65 B | `other` |
-| [ipatool-2.7.0-linux-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-amd64.tar.gz) | 17.4 MiB | `native/linux/x64` |
-| [ipatool-2.7.0-linux-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-amd64.tar.gz.sha256sum) | 65 B | `native/linux/x64` |
-| [ipatool-2.7.0-linux-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-arm64.tar.gz) | 16.1 MiB | `native/linux/arm64` |
-| [ipatool-2.7.0-linux-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-linux-arm64.tar.gz.sha256sum) | 65 B | `native/linux/arm64` |
-| [ipatool-2.7.0-macos-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-amd64.tar.gz) | 18.7 MiB | `native/darwin/x64` |
-| [ipatool-2.7.0-macos-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-amd64.tar.gz.sha256sum) | 65 B | `native/darwin/x64` |
-| [ipatool-2.7.0-macos-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-arm64.tar.gz) | 17.6 MiB | `native/darwin/arm64` |
-| [ipatool-2.7.0-macos-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-macos-arm64.tar.gz.sha256sum) | 65 B | `native/darwin/arm64` |
-| [ipatool-2.7.0-windows-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz) | 18.6 MiB | `native/win/x64` |
-| [ipatool-2.7.0-windows-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-amd64.tar.gz.sha256sum) | 65 B | `native/win/x64` |
-| [ipatool-2.7.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz) | 17.2 MiB | `native/win/arm64` |
-| [ipatool-2.7.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.7.0/ipatool-2.7.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
+| [ipatool-2.8.0-ios-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-ios-arm64.tar.gz) | 17.0 MiB | `native/linux/arm64` |
+| [ipatool-2.8.0-ios-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-ios-arm64.tar.gz.sha256sum) | 65 B | `other` |
+| [ipatool-2.8.0-linux-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-amd64.tar.gz) | 24.5 MiB | `native/linux/x64` |
+| [ipatool-2.8.0-linux-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-amd64.tar.gz.sha256sum) | 65 B | `native/linux/x64` |
+| [ipatool-2.8.0-linux-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-arm64.tar.gz) | 23.0 MiB | `native/linux/arm64` |
+| [ipatool-2.8.0-linux-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-linux-arm64.tar.gz.sha256sum) | 65 B | `native/linux/arm64` |
+| [ipatool-2.8.0-macos-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-amd64.tar.gz) | 26.1 MiB | `native/darwin/x64` |
+| [ipatool-2.8.0-macos-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-amd64.tar.gz.sha256sum) | 65 B | `native/darwin/x64` |
+| [ipatool-2.8.0-macos-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-arm64.tar.gz) | 24.8 MiB | `native/darwin/arm64` |
+| [ipatool-2.8.0-macos-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-macos-arm64.tar.gz.sha256sum) | 65 B | `native/darwin/arm64` |
+| [ipatool-2.8.0-windows-amd64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-amd64.tar.gz) | 25.6 MiB | `native/win/x64` |
+| [ipatool-2.8.0-windows-amd64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-amd64.tar.gz.sha256sum) | 65 B | `native/win/x64` |
+| [ipatool-2.8.0-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-arm64.tar.gz) | 24.0 MiB | `native/win/arm64` |
+| [ipatool-2.8.0-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.0/ipatool-2.8.0-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ipatool) 上共有 **13** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ipatool) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `2.7.0` | ✅ latest |
-| Nix unstable | `2.7.0` | ✅ latest |
+| Homebrew | `2.8.0` | ✅ latest |
+| Nix unstable | `2.7.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -100,4 +100,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:08:05Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:42:43Z._
