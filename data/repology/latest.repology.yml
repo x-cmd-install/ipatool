@@ -1,41 +1,3 @@
-- repo: aur
-  srcname: ipatool
-  binname: ipatool
-  visiblename: ipatool
-  version: 2.3.2
-  origversion: 2.3.2-1
-  status: outdated
-  summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-  maintainers:
-    - aliu@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: ipatool-bin
-  binname: ipatool-bin
-  visiblename: ipatool-bin
-  version: 2.8.0
-  origversion: 2.8.0-1
-  status: newest
-  summary: Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-  maintainers:
-    - zxp19821005@aur
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: ipatool
-  visiblename: ipatool
-  version: 2.7.0
-  origversion: null
-  status: outdated
-  summary: Search the App Store and download IPA or macOS PKG app packages.
-- repo: homebrew
-  srcname: ipatool
-  visiblename: ipatool
-  version: 2.8.0
-  origversion: null
-  status: newest
-  summary: CLI tool for searching and downloading app packages from the iOS App Store
 - repo: homebrew
   srcname: ipatool
   visiblename: ipatool
@@ -43,20 +5,17 @@
   origversion: null
   status: rolling
   summary: CLI tool for searching and downloading app packages from the iOS App Store
-- repo: macports
-  srcname: sysutils/ipatool
-  binname: ipatool
+- repo: nix_stable_25_05
+  srcname: ipatool
   visiblename: ipatool
-  version: 2.8.0
+  version: 2.1.6
   origversion: null
-  status: newest
-  summary: CLI for searching and downloading iOS app packages from the App Store
+  status: outdated
+  summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
   maintainers:
-    - therealketo@github
+    - me@gaelreyrol.dev
   licenses:
     - MIT
-  categories:
-    - sysutils
 - repo: nix_stable_24_05
   srcname: ipatool
   visiblename: ipatool
@@ -79,17 +38,58 @@
     - me@gaelreyrol.dev
   licenses:
     - MIT
-- repo: nix_stable_25_05
+- repo: aur
   srcname: ipatool
+  binname: ipatool
   visiblename: ipatool
-  version: 2.1.6
-  origversion: null
+  version: 2.3.2
+  origversion: 2.3.2-1
   status: outdated
   summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
   maintainers:
-    - me@gaelreyrol.dev
+    - aliu@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: ipatool-bin
+  binname: ipatool-bin
+  visiblename: ipatool-bin
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: outdated
+  summary: Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+  maintainers:
+    - zxp19821005@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: ipatool
+  visiblename: ipatool
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Search the App Store and download IPA or macOS PKG app packages.
+- repo: homebrew
+  srcname: ipatool
+  visiblename: ipatool
+  version: 2.8.1
+  origversion: null
+  status: newest
+  summary: CLI tool for searching and downloading app packages from the iOS App Store
+- repo: macports
+  srcname: sysutils/ipatool
+  binname: ipatool
+  visiblename: ipatool
+  version: 2.8.0
+  origversion: null
+  status: outdated
+  summary: CLI for searching and downloading iOS app packages from the App Store
+  maintainers:
+    - therealketo@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
 - repo: nix_stable_25_11
   srcname: ipatool
   visiblename: ipatool
@@ -127,7 +127,7 @@
   subrepo: main
   binname: ipatool
   visiblename: ipatool
-  version: 2.8.0
+  version: 2.8.1
   origversion: null
   status: newest
   licenses:
