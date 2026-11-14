@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: ipatool
-  visiblename: ipatool
-  version: 2.8.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: aur
   srcname: ipatool
   binname: ipatool
@@ -56,9 +47,9 @@
   srcname: sysutils/ipatool
   binname: ipatool
   visiblename: ipatool
-  version: 2.8.0
+  version: 2.8.1
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI for searching and downloading iOS app packages from the App Store
   maintainers:
     - therealketo@github
@@ -130,5 +121,14 @@
   summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
   maintainers:
     - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: ipatool
+  visiblename: ipatool
+  version: 2.8.1
+  origversion: null
+  status: newest
   licenses:
     - MIT
