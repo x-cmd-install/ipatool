@@ -28,7 +28,7 @@ x install ipatool
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,7 +46,7 @@ x install ipatool
 
 ## 流行度
 
-- **Star**: 12,351 · **Fork**: 1,092 · **开放 issue**: 419 · **贡献者**: 37
+- **Star**: 12,358 · **Fork**: 1,092 · **开放 issue**: 419 · **贡献者**: 37
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install ipatool
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 14 | 0 | 24 | 7 | 15 |
-| last60d | 2026-09-17 | 3 | 35 | 0 | 45 | 7 | 40 |
-| 90d | 2026-08-18 | 6 | 65 | 0 | 79 | 7 | 80 |
-| last180d | 2026-05-20 | 8 | 71 | 0 | 98 | 7 | 85 |
-| 360d | 2025-11-21 | 10 | 82 | 0 | 131 | 7 | 101 |
-| last720d | 2024-11-26 | 13 | 99 | 0 | 206 | 8 | 130 |
+| 30d | 2026-10-18 | 2 | 13 | 0 | 24 | 7 | 15 |
+| last60d | 2026-09-18 | 3 | 34 | 0 | 45 | 7 | 40 |
+| 90d | 2026-08-19 | 6 | 65 | 0 | 78 | 7 | 80 |
+| last180d | 2026-05-21 | 8 | 71 | 0 | 98 | 7 | 85 |
+| 360d | 2025-11-22 | 10 | 82 | 0 | 131 | 7 | 101 |
+| last720d | 2024-11-27 | 13 | 99 | 0 | 206 | 8 | 130 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:41:31Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:33:39Z._
