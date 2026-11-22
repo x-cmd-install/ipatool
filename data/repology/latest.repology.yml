@@ -1,14 +1,3 @@
-- repo: nix_stable_24_05
-  srcname: ipatool
-  visiblename: ipatool
-  version: 2.1.4
-  origversion: null
-  status: outdated
-  summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-  maintainers:
-    - me@gaelreyrol.dev
-  licenses:
-    - MIT
 - repo: aur
   srcname: ipatool
   binname: ipatool
@@ -68,6 +57,17 @@
     - MIT
   categories:
     - sysutils
+- repo: nix_stable_24_05
+  srcname: ipatool
+  visiblename: ipatool
+  version: 2.1.4
+  origversion: null
+  status: outdated
+  summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+  maintainers:
+    - me@gaelreyrol.dev
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: ipatool
   visiblename: ipatool
@@ -115,9 +115,9 @@
 - repo: nix_unstable
   srcname: ipatool
   visiblename: ipatool
-  version: 2.7.0
+  version: 2.8.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
   maintainers:
     - fallback-mnt-nix@repology
