@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,416 · **Forks**: 1,097 · **Open issues**: 430 · **Contributors**: 37
+- **Stars**: 12,424 · **Forks**: 1,098 · **Open issues**: 431 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 189 · **Open PRs**: 0 · **Closed issues**: 417 · **Open issues**: 13 · **Commits**: 290
+- **Releases**: 41 · **Merged PRs**: 189 · **Open PRs**: 0 · **Closed issues**: 417 · **Open issues**: 14 · **Commits**: 290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 15 | 0 | 26 | 8 | 18 |
-| last60d | 2026-09-22 | 3 | 36 | 0 | 47 | 8 | 43 |
-| 90d | 2026-08-23 | 6 | 68 | 0 | 82 | 8 | 83 |
-| last180d | 2026-05-25 | 8 | 74 | 0 | 106 | 8 | 88 |
-| 360d | 2025-11-26 | 10 | 85 | 0 | 140 | 8 | 104 |
-| last720d | 2024-12-01 | 13 | 102 | 0 | 216 | 9 | 133 |
+| 30d | 2026-10-23 | 2 | 15 | 0 | 24 | 9 | 18 |
+| last60d | 2026-09-23 | 3 | 36 | 0 | 45 | 9 | 38 |
+| 90d | 2026-08-24 | 6 | 68 | 0 | 82 | 9 | 73 |
+| last180d | 2026-05-26 | 8 | 74 | 0 | 105 | 9 | 87 |
+| 360d | 2025-11-27 | 10 | 85 | 0 | 140 | 9 | 104 |
+| last720d | 2024-12-02 | 13 | 102 | 0 | 215 | 10 | 133 |
 
 ## Release assets
 
@@ -84,12 +84,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/ipatool). **5** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/ipatool). **6** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.8.1` | ✅ latest |
-| Nix unstable | `2.7.0` | ⚠️ outdated |
+| Nix unstable | `2.8.1` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +100,4 @@ Install metadata for ipatool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:11Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:37:34Z._
