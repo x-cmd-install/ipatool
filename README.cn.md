@@ -46,7 +46,7 @@ x install ipatool
 
 ## 流行度
 
-- **Star**: 12,453 · **Fork**: 1,101 · **开放 issue**: 431 · **贡献者**: 36
+- **Star**: 12,468 · **Fork**: 1,101 · **开放 issue**: 431 · **贡献者**: 36
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install ipatool
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 15 | 0 | 20 | 10 | 18 |
-| last60d | 2026-09-25 | 3 | 36 | 0 | 43 | 10 | 38 |
-| 90d | 2026-08-26 | 6 | 68 | 0 | 81 | 10 | 72 |
-| last180d | 2026-05-28 | 8 | 74 | 0 | 104 | 10 | 86 |
-| 360d | 2025-11-29 | 10 | 85 | 0 | 139 | 10 | 103 |
-| last720d | 2024-12-04 | 13 | 101 | 0 | 214 | 11 | 133 |
+| 30d | 2026-10-26 | 2 | 15 | 0 | 20 | 10 | 18 |
+| last60d | 2026-09-26 | 3 | 36 | 0 | 42 | 10 | 38 |
+| 90d | 2026-08-27 | 6 | 68 | 0 | 80 | 10 | 72 |
+| last180d | 2026-05-29 | 8 | 74 | 0 | 104 | 10 | 86 |
+| 360d | 2025-11-30 | 10 | 85 | 0 | 139 | 10 | 103 |
+| last720d | 2024-12-05 | 13 | 101 | 0 | 214 | 11 | 133 |
 
 ## Release 资产
 
@@ -82,15 +82,6 @@ x install ipatool
 | [ipatool-2.8.1-windows-arm64.tar.gz](https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-windows-arm64.tar.gz) | 24.1 MiB | `native/win/arm64` |
 | [ipatool-2.8.1-windows-arm64.tar.gz.sha256sum](https://github.com/majd/ipatool/releases/download/v2.8.1/ipatool-2.8.1-windows-arm64.tar.gz.sha256sum) | 65 B | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ipatool) 上共有 **13** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.8.1` | ✅ latest |
-| Nix unstable | `2.8.1` | ✅ latest |
-
 ## 改进这些数据
 
 ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ipatool` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +91,4 @@ ipatool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:17:26Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:20:42Z._
